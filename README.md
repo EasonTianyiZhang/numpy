@@ -23,7 +23,7 @@ More information can be found at the website:
 
 After installation, tests can be run (if ``nose`` is installed) with:
 
-    python -c 'import numpy; numpy.test()'
+| python -c 'import numpy; numpy.test()'
 
 The most current development version is always available from our
 git repository:
